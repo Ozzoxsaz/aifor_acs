@@ -27,6 +27,6 @@ width: 30%;
     overflow: hidden;
     box-shadow: 0 0 12px black inset;
 }
-#button{
-    position: absolute;
+.title{
+   margin-top: 20px;
 }
